@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Komsomolsk-on-Amur university<br>
+#### 🔭 I’m currently working on Komsomolsk-on-Amur university #
 
 
 # 💻 Tech Stack:
